@@ -1,0 +1,3 @@
+[submodule "AwesomeChartJS"]
+	path = AwesomeChartJS
+	url = git://github.com/cyberpython/AwesomeChartJS.git
